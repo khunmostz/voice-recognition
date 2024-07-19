@@ -1,0 +1,7 @@
+google_speech
+SpeechRecognition
+pydub
+pocketsphinx
+pinecone-client
+datasets
+transformers
